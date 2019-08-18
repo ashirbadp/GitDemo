@@ -10,6 +10,7 @@ namespace GitDemo.Controllers
     {
         public ActionResult Index()
         {
+            //Test Print Message
             ViewBag.Title = "Home Page";
 
             return View();
